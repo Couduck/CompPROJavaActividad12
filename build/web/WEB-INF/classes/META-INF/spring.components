@@ -1,0 +1,4 @@
+#
+#Thu Apr 20 22:12:22 EST 2023
+Controller.Controlador=org.springframework.stereotype.Component
+Controller.ControladorInsert=org.springframework.stereotype.Component
